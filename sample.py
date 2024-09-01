@@ -1,3 +1,3 @@
-c=3
-d=9
-print(c+d)
+a=2
+b=9
+print(a+b)
